@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 void solve()
 {
     string s;
@@ -20,7 +19,7 @@ void solve()
     else cout<<"NO\n";
 }
  
-signed main()
+int main()
 {
    
     int TCS = 1;
